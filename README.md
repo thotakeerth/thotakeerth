@@ -1,7 +1,7 @@
 
 # 👩‍💻 Data Scientist | Machine Learning Enthusiast | AI Innovator | Published Researcher
 
--🚀 With over 3 years of expertise in machine learning, natural language processing (NLP), and data analytics, I am passionate about transforming data into actionable insights. My journey has been marked by significant contributions in predictive modeling, deep learning, and data mining.
+-🚀 With over 4 years of expertise in machine learning, natural language processing (NLP), and data analytics, I am passionate about transforming data into actionable insights. My journey has been marked by significant contributions in predictive modeling, deep learning, and data mining.
 
 -🌐 As a Data Science Intern at Cognizant, I developed robust machine learning models, achieving 93% accuracy in predicting loan eligibility and 91% accuracy in sales predictions. My work on reducing non-performing assets and enhancing consumer attrition management has been instrumental in driving business success.
 
